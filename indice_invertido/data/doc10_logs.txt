@@ -1,0 +1,3 @@
+Los registros de aplicaciones contienen eventos generados por sistemas, usuarios y servicios.
+Con Big Data, los logs pueden analizarse usando Hadoop para detectar errores y patrones.
+MapReduce permite procesar grandes colecciones de registros de manera distribuida.

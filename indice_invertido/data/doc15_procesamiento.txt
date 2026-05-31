@@ -1,0 +1,3 @@
+El procesamiento distribuido permite dividir una tarea grande en varias partes pequeñas.
+Cada nodo del clúster puede procesar una parte de los datos de entrada.
+Al finalizar, los resultados parciales se combinan para obtener una salida consolidada.

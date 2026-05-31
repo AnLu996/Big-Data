@@ -1,0 +1,3 @@
+Amazon EMR permite ejecutar trabajos de procesamiento distribuido usando Hadoop, Spark y otros frameworks de Big Data.
+En un clúster EMR, los datos pueden almacenarse en Amazon S3 y procesarse mediante tareas MapReduce.
+Este enfoque permite analizar grandes volúmenes de información sin administrar manualmente toda la infraestructura.

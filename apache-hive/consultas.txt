@@ -1,0 +1,33 @@
+SELECT
+    palabra,
+    COUNT(*) AS frecuencia
+FROM documentos
+LATERAL VIEW explode(split(linea, ' ')) palabras AS palabra
+WHERE palabra IS NOT NULL
+  AND palabra <> ''
+  AND length(palabra) > 2
+GROUP BY palabra
+ORDER BY frecuencia DESC
+LIMIT 20;
+
+
+DROP TABLE IF EXISTS indice_invertido;
+
+CREATE TABLE indice_invertido AS
+SELECT
+    palabra,
+    collect_set(documento) AS documentos,
+    COUNT(DISTINCT documento) AS cantidad_documentos,
+    COUNT(*) AS frecuencia_total
+FROM (
+    SELECT
+        regexp_extract(INPUT__FILE__NAME, '([^/]+)$', 1) AS documento,
+        palabra
+    FROM documentos_con_archivo
+    LATERAL VIEW explode(split(linea, ' ')) palabras AS palabra
+    WHERE palabra IS NOT NULL
+      AND palabra <> ''
+      AND length(palabra) > 2
+) t
+GROUP BY palabra
+ORDER BY cantidad_documentos DESC, frecuencia_total DESC;

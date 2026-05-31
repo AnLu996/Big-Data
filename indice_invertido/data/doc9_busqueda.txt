@@ -1,0 +1,3 @@
+Un motor de búsqueda utiliza estructuras de datos para encontrar documentos relevantes.
+El índice invertido permite asociar cada palabra con los archivos donde aparece.
+Esta técnica reduce el tiempo necesario para consultar información textual.

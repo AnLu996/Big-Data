@@ -1,0 +1,263 @@
+a	doc11_electoral.txt, doc13_mapreduce.txt, doc4_onpe.txt	anlu-desktop
+acceso	doc6_seguridad.txt	anlu-desktop
+actas	doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+administra	doc7_yarn.txt	anlu-desktop
+administrar	doc1_cloud.txt	anlu-desktop
+agrupa	doc13_mapreduce.txt	anlu-desktop
+agrupan	doc2_hadoop.txt	anlu-desktop
+al	doc15_procesamiento.txt	anlu-desktop
+almacenamiento	doc5_aws.txt, doc8_hdfs.txt	anlu-desktop
+almacenan	doc5_aws.txt	anlu-desktop
+almacenar	doc14_nodos.txt, doc2_hadoop.txt	anlu-desktop
+almacenarse	doc1_cloud.txt	anlu-desktop
+amazon	doc12_cloud.txt, doc14_nodos.txt, doc1_cloud.txt, doc5_aws.txt, doc6_seguridad.txt, doc8_hdfs.txt	anlu-desktop
+an	doc5_aws.txt	anlu-desktop
+analizar	doc11_electoral.txt, doc1_cloud.txt	anlu-desktop
+analizarse	doc10_logs.txt, doc4_onpe.txt	anlu-desktop
+aparece	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+aplicaciones	doc10_logs.txt, doc12_cloud.txt, doc7_yarn.txt	anlu-desktop
+archivos	doc3_ind.txt, doc5_aws.txt, doc6_seguridad.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+as	doc15_procesamiento.txt	anlu-desktop
+asigna	doc7_yarn.txt	anlu-desktop
+asociar	doc9_busqueda.txt	anlu-desktop
+aunque	doc8_hdfs.txt	anlu-desktop
+automatizaci	doc5_aws.txt	anlu-desktop
+aws	doc12_cloud.txt, doc5_aws.txt, doc6_seguridad.txt	anlu-desktop
+ayudar	doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+b	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+bajo	doc12_cloud.txt	anlu-desktop
+big	doc10_logs.txt, doc1_cloud.txt, doc3_ind.txt, doc4_onpe.txt	anlu-desktop
+bloques	doc8_hdfs.txt	anlu-desktop
+cada	doc15_procesamiento.txt, doc9_busqueda.txt	anlu-desktop
+cantidades	doc11_electoral.txt, doc2_hadoop.txt	anlu-desktop
+ciertos	doc4_onpe.txt	anlu-desktop
+cl	doc12_cloud.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt	anlu-desktop
+clave	doc13_mapreduce.txt, doc2_hadoop.txt	anlu-desktop
+claves	doc13_mapreduce.txt	anlu-desktop
+cnica	doc9_busqueda.txt	anlu-desktop
+colaboran	doc14_nodos.txt	anlu-desktop
+colecciones	doc10_logs.txt	anlu-desktop
+combinan	doc15_procesamiento.txt	anlu-desktop
+como	doc12_cloud.txt	anlu-desktop
+comprender	doc8_hdfs.txt	anlu-desktop
+computaci	doc12_cloud.txt	anlu-desktop
+con	doc10_logs.txt, doc11_electoral.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc9_busqueda.txt	anlu-desktop
+conjuntos	doc4_onpe.txt	anlu-desktop
+consolidada	doc15_procesamiento.txt	anlu-desktop
+construirse	doc3_ind.txt	anlu-desktop
+consultar	doc9_busqueda.txt	anlu-desktop
+contenedores	doc7_yarn.txt	anlu-desktop
+contienen	doc10_logs.txt, doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+control	doc6_seguridad.txt	anlu-desktop
+coordina	doc14_nodos.txt, doc7_yarn.txt	anlu-desktop
+core	doc14_nodos.txt	anlu-desktop
+cuando	doc7_yarn.txt	anlu-desktop
+data	doc10_logs.txt, doc1_cloud.txt, doc3_ind.txt, doc4_onpe.txt	anlu-desktop
+datos	doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+de	doc10_logs.txt, doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+del	doc13_mapreduce.txt, doc15_procesamiento.txt, doc7_yarn.txt	anlu-desktop
+demanda	doc12_cloud.txt	anlu-desktop
+desde	doc6_seguridad.txt, doc8_hdfs.txt	anlu-desktop
+detectar	doc10_logs.txt	anlu-desktop
+disponibles	doc7_yarn.txt	anlu-desktop
+distribuida	doc10_logs.txt, doc2_hadoop.txt	anlu-desktop
+distribuidas	doc7_yarn.txt	anlu-desktop
+distribuido	doc11_electoral.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc4_onpe.txt, doc5_aws.txt, doc8_hdfs.txt	anlu-desktop
+distribuidos	doc14_nodos.txt	anlu-desktop
+distribuye	doc8_hdfs.txt	anlu-desktop
+distrito	doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+divide	doc2_hadoop.txt, doc8_hdfs.txt	anlu-desktop
+dividir	doc15_procesamiento.txt	anlu-desktop
+documentos	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+donde	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+dos	doc2_hadoop.txt	anlu-desktop
+durante	doc2_hadoop.txt, doc7_yarn.txt	anlu-desktop
+ec2	doc12_cloud.txt	anlu-desktop
+eficiente	doc4_onpe.txt	anlu-desktop
+ejecuci	doc7_yarn.txt	anlu-desktop
+ejecuta	doc7_yarn.txt	anlu-desktop
+ejecutan	doc14_nodos.txt	anlu-desktop
+ejecutar	doc12_cloud.txt, doc14_nodos.txt, doc1_cloud.txt, doc6_seguridad.txt	anlu-desktop
+el	doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+electoral	doc4_onpe.txt	anlu-desktop
+electorales	doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+emr	doc12_cloud.txt, doc14_nodos.txt, doc1_cloud.txt, doc5_aws.txt, doc6_seguridad.txt, doc8_hdfs.txt	anlu-desktop
+en	doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt	anlu-desktop
+encontrar	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+enfoque	doc1_cloud.txt	anlu-desktop
+entrada	doc13_mapreduce.txt, doc15_procesamiento.txt, doc5_aws.txt	anlu-desktop
+entre	doc8_hdfs.txt	anlu-desktop
+errores	doc10_logs.txt, doc11_electoral.txt	anlu-desktop
+es	doc13_mapreduce.txt, doc2_hadoop.txt, doc3_ind.txt, doc5_aws.txt, doc6_seguridad.txt, doc8_hdfs.txt	anlu-desktop
+escalables	doc12_cloud.txt	anlu-desktop
+escenario	doc4_onpe.txt	anlu-desktop
+est	doc14_nodos.txt	anlu-desktop
+esta	doc9_busqueda.txt	anlu-desktop
+este	doc1_cloud.txt	anlu-desktop
+estructura	doc3_ind.txt	anlu-desktop
+estructuras	doc9_busqueda.txt	anlu-desktop
+eventos	doc10_logs.txt	anlu-desktop
+facilita	doc12_cloud.txt	anlu-desktop
+facilitan	doc5_aws.txt	anlu-desktop
+fase	doc13_mapreduce.txt, doc2_hadoop.txt	anlu-desktop
+fases	doc2_hadoop.txt	anlu-desktop
+final	doc13_mapreduce.txt	anlu-desktop
+finalizar	doc15_procesamiento.txt	anlu-desktop
+finalmente	doc5_aws.txt	anlu-desktop
+forma	doc6_seguridad.txt	anlu-desktop
+formado	doc14_nodos.txt	anlu-desktop
+framework	doc2_hadoop.txt	anlu-desktop
+frameworks	doc1_cloud.txt	anlu-desktop
+frecuentemente	doc5_aws.txt	anlu-desktop
+genera	doc13_mapreduce.txt	anlu-desktop
+generados	doc10_logs.txt	anlu-desktop
+generan	doc2_hadoop.txt	anlu-desktop
+generar	doc4_onpe.txt	anlu-desktop
+ginas	doc3_ind.txt	anlu-desktop
+grande	doc15_procesamiento.txt	anlu-desktop
+grandes	doc10_logs.txt, doc11_electoral.txt, doc1_cloud.txt, doc2_hadoop.txt, doc4_onpe.txt	anlu-desktop
+guardan	doc5_aws.txt	anlu-desktop
+hadoop	doc10_logs.txt, doc12_cloud.txt, doc14_nodos.txt, doc1_cloud.txt, doc2_hadoop.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt	anlu-desktop
+hdfs	doc8_hdfs.txt	anlu-desktop
+herramientas	doc4_onpe.txt	anlu-desktop
+iam	doc6_seguridad.txt	anlu-desktop
+iguales	doc13_mapreduce.txt	anlu-desktop
+importante	doc6_seguridad.txt	anlu-desktop
+informaci	doc1_cloud.txt, doc4_onpe.txt, doc9_busqueda.txt	anlu-desktop
+infraestructura	doc12_cloud.txt, doc1_cloud.txt, doc5_aws.txt	anlu-desktop
+instalar	doc12_cloud.txt	anlu-desktop
+interfaz	doc7_yarn.txt	anlu-desktop
+invertido	doc11_electoral.txt, doc3_ind.txt, doc4_onpe.txt, doc9_busqueda.txt	anlu-desktop
+invertidos	doc3_ind.txt	anlu-desktop
+junto	doc5_aws.txt	anlu-desktop
+la	doc12_cloud.txt, doc13_mapreduce.txt, doc1_cloud.txt, doc2_hadoop.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt	anlu-desktop
+las	doc13_mapreduce.txt	anlu-desktop
+lea	doc6_seguridad.txt	anlu-desktop
+leer	doc8_hdfs.txt	anlu-desktop
+lisis	doc5_aws.txt	anlu-desktop
+localizar	doc4_onpe.txt	anlu-desktop
+logs	doc10_logs.txt	anlu-desktop
+los	doc10_logs.txt, doc11_electoral.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+luego	doc5_aws.txt	anlu-desktop
+manera	doc10_logs.txt, doc2_hadoop.txt, doc4_onpe.txt	anlu-desktop
+manualmente	doc12_cloud.txt, doc1_cloud.txt	anlu-desktop
+map	doc13_mapreduce.txt, doc2_hadoop.txt	anlu-desktop
+mapreduce	doc10_logs.txt, doc13_mapreduce.txt, doc1_cloud.txt, doc2_hadoop.txt, doc3_ind.txt, doc6_seguridad.txt, doc7_yarn.txt	anlu-desktop
+mediante	doc1_cloud.txt, doc6_seguridad.txt	anlu-desktop
+menes	doc1_cloud.txt	anlu-desktop
+menor	doc11_electoral.txt	anlu-desktop
+mesa	doc11_electoral.txt	anlu-desktop
+mientras	doc14_nodos.txt	anlu-desktop
+modelo	doc13_mapreduce.txt	anlu-desktop
+motor	doc9_busqueda.txt	anlu-desktop
+motores	doc3_ind.txt	anlu-desktop
+muchos	doc3_ind.txt	anlu-desktop
+n	doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc1_cloud.txt, doc4_onpe.txt, doc5_aws.txt, doc7_yarn.txt, doc9_busqueda.txt	anlu-desktop
+ndice	doc11_electoral.txt, doc3_ind.txt, doc4_onpe.txt, doc9_busqueda.txt	anlu-desktop
+ndices	doc3_ind.txt	anlu-desktop
+necesario	doc9_busqueda.txt	anlu-desktop
+nodo	doc14_nodos.txt, doc15_procesamiento.txt	anlu-desktop
+nodos	doc14_nodos.txt, doc7_yarn.txt, doc8_hdfs.txt	anlu-desktop
+nube	doc12_cloud.txt	anlu-desktop
+nuevamente	doc5_aws.txt	anlu-desktop
+o	doc11_electoral.txt, doc3_ind.txt, doc4_onpe.txt	anlu-desktop
+objetos	doc5_aws.txt	anlu-desktop
+observaciones	doc11_electoral.txt	anlu-desktop
+observar	doc7_yarn.txt	anlu-desktop
+obtener	doc15_procesamiento.txt, doc4_onpe.txt	anlu-desktop
+ofrece	doc12_cloud.txt, doc5_aws.txt	anlu-desktop
+organizarse	doc11_electoral.txt	anlu-desktop
+otros	doc1_cloud.txt	anlu-desktop
+p	doc3_ind.txt	anlu-desktop
+palabra	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+para	doc10_logs.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc6_seguridad.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+paralelo	doc13_mapreduce.txt, doc3_ind.txt	anlu-desktop
+parciales	doc15_procesamiento.txt	anlu-desktop
+pares	doc13_mapreduce.txt, doc2_hadoop.txt	anlu-desktop
+parte	doc15_procesamiento.txt	anlu-desktop
+partes	doc15_procesamiento.txt	anlu-desktop
+participan	doc7_yarn.txt	anlu-desktop
+participar	doc14_nodos.txt	anlu-desktop
+partir	doc13_mapreduce.txt	anlu-desktop
+patrones	doc10_logs.txt	anlu-desktop
+peque	doc15_procesamiento.txt	anlu-desktop
+permisos	doc6_seguridad.txt	anlu-desktop
+permite	doc10_logs.txt, doc11_electoral.txt, doc12_cloud.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc3_ind.txt, doc4_onpe.txt, doc6_seguridad.txt, doc7_yarn.txt, doc9_busqueda.txt	anlu-desktop
+permiten	doc6_seguridad.txt	anlu-desktop
+pidamente	doc3_ind.txt	anlu-desktop
+pol	doc6_seguridad.txt	anlu-desktop
+por	doc10_logs.txt, doc11_electoral.txt, doc14_nodos.txt, doc4_onpe.txt, doc5_aws.txt	anlu-desktop
+principal	doc14_nodos.txt	anlu-desktop
+principales	doc2_hadoop.txt	anlu-desktop
+procesados	doc5_aws.txt	anlu-desktop
+procesamiento	doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc2_hadoop.txt, doc4_onpe.txt, doc5_aws.txt, doc7_yarn.txt	anlu-desktop
+procesar	doc10_logs.txt, doc13_mapreduce.txt, doc15_procesamiento.txt, doc2_hadoop.txt, doc3_ind.txt	anlu-desktop
+procesarse	doc1_cloud.txt	anlu-desktop
+procesos	doc14_nodos.txt	anlu-desktop
+produce	doc13_mapreduce.txt	anlu-desktop
+programaci	doc13_mapreduce.txt	anlu-desktop
+proteger	doc6_seguridad.txt	anlu-desktop
+provincia	doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+puede	doc11_electoral.txt, doc15_procesamiento.txt, doc3_ind.txt, doc4_onpe.txt, doc8_hdfs.txt	anlu-desktop
+pueden	doc10_logs.txt, doc11_electoral.txt, doc14_nodos.txt, doc1_cloud.txt, doc4_onpe.txt	anlu-desktop
+qu	doc7_yarn.txt	anlu-desktop
+que	doc11_electoral.txt, doc14_nodos.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt	anlu-desktop
+r	doc3_ind.txt	anlu-desktop
+recursos	doc7_yarn.txt	anlu-desktop
+reduce	doc13_mapreduce.txt, doc2_hadoop.txt, doc9_busqueda.txt	anlu-desktop
+regi	doc11_electoral.txt, doc4_onpe.txt	anlu-desktop
+registros	doc10_logs.txt	anlu-desktop
+relacionados	doc11_electoral.txt	anlu-desktop
+relacionar	doc3_ind.txt	anlu-desktop
+relevantes	doc4_onpe.txt, doc9_busqueda.txt	anlu-desktop
+resultado	doc13_mapreduce.txt	anlu-desktop
+resultados	doc15_procesamiento.txt, doc2_hadoop.txt, doc4_onpe.txt, doc5_aws.txt	anlu-desktop
+rminos	doc11_electoral.txt, doc3_ind.txt, doc4_onpe.txt	anlu-desktop
+roles	doc6_seguridad.txt	anlu-desktop
+s3	doc12_cloud.txt, doc1_cloud.txt, doc5_aws.txt, doc6_seguridad.txt, doc8_hdfs.txt	anlu-desktop
+salida	doc15_procesamiento.txt	anlu-desktop
+se	doc15_procesamiento.txt, doc2_hadoop.txt, doc5_aws.txt, doc7_yarn.txt	anlu-desktop
+segura	doc6_seguridad.txt	anlu-desktop
+seguridad	doc6_seguridad.txt	anlu-desktop
+servicio	doc5_aws.txt	anlu-desktop
+servicios	doc10_logs.txt, doc12_cloud.txt, doc5_aws.txt, doc6_seguridad.txt	anlu-desktop
+siendo	doc8_hdfs.txt	anlu-desktop
+sigue	doc8_hdfs.txt	anlu-desktop
+sin	doc12_cloud.txt, doc1_cloud.txt	anlu-desktop
+sistema	doc8_hdfs.txt	anlu-desktop
+sistemas	doc10_logs.txt	anlu-desktop
+son	doc5_aws.txt	anlu-desktop
+spark	doc1_cloud.txt	anlu-desktop
+squeda	doc3_ind.txt, doc9_busqueda.txt	anlu-desktop
+ster	doc12_cloud.txt, doc14_nodos.txt, doc15_procesamiento.txt, doc1_cloud.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt	anlu-desktop
+t	doc11_electoral.txt, doc3_ind.txt, doc4_onpe.txt, doc9_busqueda.txt	anlu-desktop
+tarea	doc14_nodos.txt, doc15_procesamiento.txt	anlu-desktop
+tareas	doc14_nodos.txt, doc1_cloud.txt	anlu-desktop
+temporales	doc14_nodos.txt	anlu-desktop
+textual	doc9_busqueda.txt	anlu-desktop
+ticas	doc6_seguridad.txt	anlu-desktop
+tiempo	doc11_electoral.txt, doc9_busqueda.txt	anlu-desktop
+til	doc8_hdfs.txt	anlu-desktop
+toda	doc1_cloud.txt	anlu-desktop
+trabajar	doc4_onpe.txt	anlu-desktop
+trabajo	doc14_nodos.txt, doc7_yarn.txt	anlu-desktop
+trabajos	doc1_cloud.txt, doc6_seguridad.txt	anlu-desktop
+tradicional	doc8_hdfs.txt	anlu-desktop
+ubicar	doc11_electoral.txt	anlu-desktop
+un	doc11_electoral.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc1_cloud.txt, doc2_hadoop.txt, doc3_ind.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt, doc9_busqueda.txt	anlu-desktop
+una	doc14_nodos.txt, doc15_procesamiento.txt, doc3_ind.txt	anlu-desktop
+usado	doc5_aws.txt	anlu-desktop
+usando	doc10_logs.txt, doc12_cloud.txt, doc1_cloud.txt, doc4_onpe.txt	anlu-desktop
+usuarios	doc10_logs.txt, doc6_seguridad.txt	anlu-desktop
+utiliza	doc9_busqueda.txt	anlu-desktop
+utilizado	doc2_hadoop.txt	anlu-desktop
+utilizan	doc3_ind.txt	anlu-desktop
+utilizar	doc12_cloud.txt	anlu-desktop
+valor	doc13_mapreduce.txt, doc2_hadoop.txt	anlu-desktop
+varias	doc15_procesamiento.txt	anlu-desktop
+varios	doc14_nodos.txt, doc8_hdfs.txt	anlu-desktop
+vol	doc1_cloud.txt	anlu-desktop
+votaci	doc11_electoral.txt	anlu-desktop
+votos	doc11_electoral.txt	anlu-desktop
+y	doc10_logs.txt, doc11_electoral.txt, doc12_cloud.txt, doc13_mapreduce.txt, doc14_nodos.txt, doc1_cloud.txt, doc2_hadoop.txt, doc4_onpe.txt, doc5_aws.txt, doc6_seguridad.txt, doc7_yarn.txt, doc8_hdfs.txt	anlu-desktop
+yarn	doc7_yarn.txt	anlu-desktop

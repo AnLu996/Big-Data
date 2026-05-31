@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS lab04;
+USE lab04;
+
+DROP TABLE IF EXISTS documentos;
+
+CREATE EXTERNAL TABLE documentos (
+    linea STRING
+)
+STORED AS TEXTFILE
+LOCATION '/user/hadoop/lab04/textos';

@@ -1,0 +1,3 @@
+Un índice invertido es una estructura de datos que permite encontrar rápidamente los documentos donde aparece una palabra.
+Los motores de búsqueda utilizan índices invertidos para relacionar términos con páginas o documentos.
+En Big Data, el índice invertido puede construirse con MapReduce para procesar muchos archivos en paralelo.

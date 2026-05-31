@@ -1,0 +1,3 @@
+YARN administra los recursos del clúster Hadoop y coordina la ejecución de aplicaciones distribuidas.
+Cuando se ejecuta un trabajo MapReduce, YARN asigna contenedores en los nodos disponibles.
+La interfaz de YARN permite observar qué nodos participan durante el procesamiento.

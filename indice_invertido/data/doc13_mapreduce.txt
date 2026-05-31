@@ -1,0 +1,3 @@
+MapReduce es un modelo de programación para procesar datos en paralelo.
+La fase Map genera pares clave valor a partir de los datos de entrada.
+La fase Reduce agrupa las claves iguales y produce el resultado final del procesamiento.

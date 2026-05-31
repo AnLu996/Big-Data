@@ -1,0 +1,3 @@
+Los datos electorales pueden analizarse usando herramientas de Big Data para obtener información por región, provincia o distrito.
+En un escenario electoral, un índice invertido puede ayudar a localizar actas que contienen ciertos términos relevantes.
+El procesamiento distribuido permite trabajar con grandes conjuntos de actas y generar resultados de manera eficiente.

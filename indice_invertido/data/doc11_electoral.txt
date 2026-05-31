@@ -1,0 +1,3 @@
+Los datos electorales pueden organizarse por región, provincia, distrito y mesa de votación.
+Un índice invertido puede ayudar a ubicar actas que contienen términos relacionados con votos, observaciones o errores.
+El procesamiento distribuido permite analizar grandes cantidades de actas en menor tiempo.

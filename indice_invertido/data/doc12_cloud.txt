@@ -1,0 +1,3 @@
+La computación en la nube permite utilizar infraestructura bajo demanda.
+AWS ofrece servicios como EC2, S3 y EMR para ejecutar aplicaciones escalables.
+Amazon EMR facilita el procesamiento de datos usando Hadoop sin instalar manualmente el clúster.

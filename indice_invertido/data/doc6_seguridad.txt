@@ -1,0 +1,3 @@
+La seguridad en AWS permite proteger datos, usuarios y servicios mediante políticas de acceso.
+En un clúster EMR, los roles IAM permiten que Hadoop lea archivos desde Amazon S3.
+El control de permisos es importante para ejecutar trabajos MapReduce de forma segura.

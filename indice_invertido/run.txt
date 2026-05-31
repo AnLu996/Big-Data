@@ -1,0 +1,29 @@
+cat data/*.txt | python mapper.py | sort | python reducer.py
+
+Get-ChildItem data/*.txt | ForEach-Object {
+    $env:mapreduce_map_input_file = $_.FullName
+    Get-Content $_.FullName | python mapper.py
+} | Sort-Object | python reducer.py
+
+
+
+https://us-east-1.console.aws.amazon.com/s3/buckets/indice-invertido-prueba?region=us-east-1&prefix=input/
+
+step: Indice invertido Hadoop Streaming
+
+command-runner.jar
+
+
+hadoop-streaming
+-D
+mapreduce.job.reduces=1
+-files
+s3://indice-invertido-prueba/scripts/mapper.py,s3://indice-invertido-prueba/scripts/reducer.py
+-mapper
+"python3 mapper.py"
+-reducer
+"python3 reducer.py"
+-input
+s3://indice-invertido-prueba/input/
+-output
+s3://indice-invertido-prueba/output/indice-invertido-unico/

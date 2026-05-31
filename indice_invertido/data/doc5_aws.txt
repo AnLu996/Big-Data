@@ -1,0 +1,3 @@
+Amazon S3 es un servicio de almacenamiento de objetos usado frecuentemente junto con Amazon EMR.
+Los archivos de entrada se guardan en S3, luego son procesados por el clúster EMR y finalmente los resultados se almacenan nuevamente en S3.
+AWS ofrece servicios que facilitan el análisis de datos, la automatización de infraestructura y el procesamiento distribuido.

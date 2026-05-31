@@ -1,0 +1,3 @@
+Un clúster está formado por varios nodos que colaboran para ejecutar una tarea.
+El nodo principal coordina el trabajo, mientras los nodos core ejecutan procesos distribuidos.
+En Amazon EMR, los nodos core pueden participar en tareas Hadoop y almacenar datos temporales.

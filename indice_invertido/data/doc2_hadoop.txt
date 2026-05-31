@@ -1,0 +1,3 @@
+Hadoop es un framework utilizado para almacenar y procesar grandes cantidades de datos de manera distribuida.
+MapReduce divide el procesamiento en dos fases principales: map y reduce.
+Durante la fase map se generan pares clave valor, y durante la fase reduce se agrupan los resultados.
