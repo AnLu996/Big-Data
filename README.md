@@ -7,9 +7,9 @@ El objetivo principal es aplicar herramientas y técnicas de procesamiento de da
 
 Para el desarrollo de los laboratorios se utiliza el dataset:
 
-**Central Bank Speeches Dataset**  
+**Plaintext Wikipedia (full English)**  
 Disponible en Kaggle:  
-https://www.kaggle.com/datasets/magnushansson/central-bank-speeches
+https://www.kaggle.com/datasets/ffatty/plaintext-wikipedia-full-english
 
 Este dataset fue construido a partir de discursos emitidos por directivos y juntas de bancos centrales afiliados al **Bank for International Settlements (BIS)**.
 
